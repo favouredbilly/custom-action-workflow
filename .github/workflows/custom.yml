@@ -4,5 +4,5 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      -uses:actions/checkout@v2
-      -uses:favouredbilly/custom-action@main
+      - uses: actions/checkout@v2
+      - uses: favouredbilly/custom-action@main
